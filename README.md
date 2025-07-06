@@ -1,6 +1,8 @@
 # PySecScope
 #### Author: Bocaletto Luca
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge&logo=gnu)](LICENSE) [![Language: Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/) [![Linux-Compatible](https://img.shields.io/badge/Linux-Compatible-blue?style=for-the-badge&logo=linux)](https://www.kernel.org/) [![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)](https://github.com/bocaletto-luca/Directory-Monitor)
+
 PySecScope is a comprehensive Linux enumeration tool with a Tkinter-based graphical user interface. Inspired by LinEnum, this tool gathers system, user, network, and service information, along with detailed security checks, and generates reports in multiple formats (Text, JSON, CSV).
 
 This repository contains two versions of the tool:
